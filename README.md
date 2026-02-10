@@ -54,7 +54,7 @@ Recently, I've been exploring **AI integrations** (ChatGPT, AliceGPT, Kven, Fire
 ### 📱 Mobile Development
 <div align="center">
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>
-<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Expo_logo.svg](https://images.seeklogo.com/logo-png/45/2/expo-go-app-logo-png_seeklogo-457073.png" alt="Expo" height="50" /></a>
+<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" height="50" /></a>
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" height="50" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" /></a>
 </div>
