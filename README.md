@@ -43,7 +43,8 @@ Recently, I've been exploring **AI integrations** (ChatGPT, AliceGPT, Kven, Fire
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-<a href="https://modx.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/MODX_Logo.svg" alt="MODX" height="50" /></a>
+<a href="https://modx.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/modx/modx-icon.svg" alt="MODX" height="50" /></a>
+
 
 </div>
 
