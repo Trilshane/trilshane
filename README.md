@@ -5,9 +5,14 @@
 ### Fullstack Web Developer
 
 </div>
+<br/>  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-  
+
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -47,5 +52,6 @@
 </td></tr></table>  
 
 <br/>  
+
 
 ![Snake animation](https://raw.githubusercontent.com/ink-developer/ink-developer/main/dist/snake-dark.svg?palette=github-dark)
